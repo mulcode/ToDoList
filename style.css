@@ -1,0 +1,18 @@
+.to-do-list {
+    width: 300px;
+    font-family: sans-serif;
+}
+.to-do-list li{
+    border: 2px solid lightblue;
+    margin-bottom: 3px;
+    padding: 5px;
+}
+.delete-button{
+    float : right;
+    padding-right: 5px;
+    padding-left: 5px;
+    background-color: red;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 50%;
+}
